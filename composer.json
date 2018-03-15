@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.0",
+        "matomo/ini": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inimerge\\": "src/"
+        }
+    }
+}
